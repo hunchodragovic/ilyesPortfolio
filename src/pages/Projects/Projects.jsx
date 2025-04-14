@@ -17,32 +17,22 @@ const projects = [
   {
     title: "A sleek portfolio built with React and Tailwind CSS ",
     description:
-      "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
+      "A sleek portfolio built with React and Tailwind CSS to showcase my skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://i.postimg.cc/4d4xw8fG/portfolio.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
+    githubLink: "https://github.com/hunchodragovic/ilyesPortfolio",
     liveLink: "https://codervai.vercel.app",
   },
   {
-    title: "🚀 CodeWhisperer",
+    title: "🌍 Planet Voyage",
     description:
-      "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      " Planet Voyage A dynamic travel agency website built with Vite and ReactJS. Featuring interactive destination maps, real-time booking functionality, and a user-friendly interface to help travelers explore and plan their next adventure with ease",
     src: "water.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+    link: "https://i.postimg.cc/wxSsdYR7/planet.png",
     color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
-    liveLink: "https://codewhisperer.vercel.app/",
-  },
-  {
-    title: "CodeKori 🔥",
-    description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
-    src: "house.jpg",
-    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
-    color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
+    githubLink: "https://github.com/hunchodragovic/travel",
+    liveLink: "https://travel-1f52e.web.app/",
   },
 ];
 

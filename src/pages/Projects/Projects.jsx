@@ -38,7 +38,7 @@ const projects = [
     title: "Full-Stack Authentication App 🔐🛡️",
     description: "A full-stack authentication app built with the MERN stack",
     src: "water.jpg",
-    link: "https://i.postimg.cc/yd1BtHRg/authapp.png",
+    link: "https://i.postimg.cc/jdK9hXz2/authapp.png",
     color: "#fff",
     githubLink: "https://github.com/hunchodragovic/authStyles",
     liveLink: "https://auth-styles.vercel.app/",

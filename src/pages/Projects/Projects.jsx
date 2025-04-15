@@ -22,7 +22,7 @@ const projects = [
     link: "https://i.postimg.cc/4d4xw8fG/portfolio.png",
     color: "#8f89ff",
     githubLink: "https://github.com/hunchodragovic/ilyesPortfolio",
-    liveLink: "https://codervai.vercel.app",
+    liveLink: "https://ilyes-portfolio-murex.vercel.app/",
   },
   {
     title: "🌍 Planet Voyage",
@@ -33,6 +33,15 @@ const projects = [
     color: "#fff",
     githubLink: "https://github.com/hunchodragovic/travel",
     liveLink: "https://travel-1f52e.web.app/",
+  },
+  {
+    title: "Full-Stack Authentication App 🔐🛡️",
+    description: "A full-stack authentication app built with the MERN stack",
+    src: "water.jpg",
+    link: "https://i.postimg.cc/yd1BtHRg/authapp.png",
+    color: "#fff",
+    githubLink: "https://github.com/hunchodragovic/authStyles",
+    liveLink: "https://auth-styles.vercel.app/",
   },
 ];
 

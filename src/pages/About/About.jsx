@@ -30,7 +30,7 @@ export default function About() {
                 platform, and an online ordering app — with the goal of
                 mastering full-stack development through hands-on experience.{" "}
                 <span className="font-bold text-white">
-                  As a junior developer with big goals
+                  As a Front-End developer with big goals
                 </span>
                 , I'm focused on improving every day to become a skilled
                 full-stack engineer.

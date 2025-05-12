@@ -50,7 +50,7 @@ export default function Hero() {
   const [code] = useState(`
 const profile = {
     fullName: 'Ilyes Ait Yahiatene',
-    title: 'React & Next.js Developer | Back-End Curious | Problem Solver in Progress',
+    title: 'React & Next.js Developer | E-commerce solutions Specialist',
     skills: [
         'React', 'NextJS','Node.js','TypeScript', 'Express',
          'MongoDB', 'PostgreSQL','MySQL' ,'Redux', 'Firebase',

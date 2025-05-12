@@ -5,24 +5,35 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Amazon Clone",
+    title: "🛒 Dynamic E-Commerce Store",
     description:
-      "A simple Amazon-inspired e-commerce web app built with React and Firebase, featuring product listings and a shopping cart.",
-    src: "rock.jpg",
-    link: "https://i.postimg.cc/tgTc5PKf/amazon.png",
-    color: "#5196fd",
-    githubLink: "https://github.com/hunchodragovic/amazon-clone",
-    liveLink: "https://clone-9b843.web.app/",
+      "A full-stack e-commerce app built with Next.js and Strapi. All content is fully dynamic and managed through a Strapi dashboard, allowing clients to handle their store content without any technical skills. Includes product search, a responsive layout, and image slider...and many more features",
+    src: "ecommerce.jpg",
+    link: "https://i.postimg.cc/nzG27CL7/e-commerce.png",
+    color: "#f3f4f6",
+    githubLink:
+      "https://github.com/hunchodragovic/Full-Stack-E-commerce-with-NextJS-and-Strapi--Front-End-Part-",
+    liveLink:
+      "https://github.com/hunchodragovic/Full-Stack-E-commerce-with-NextJS-and-Strapi--Back-End-Part-",
   },
   {
-    title: "A sleek portfolio built with React and Tailwind CSS ",
+    title: "📝 Real-Time Text Analyzer",
     description:
-      "A sleek portfolio built with React and Tailwind CSS to showcase my skills, projects, and experience in a modern design.",
-    src: "tree.jpg",
-    link: "https://i.postimg.cc/4d4xw8fG/portfolio.png",
-    color: "#8f89ff",
-    githubLink: "https://github.com/hunchodragovic/ilyesPortfolio",
-    liveLink: "https://ilyes-portfolio-murex.vercel.app/",
+      "A fully accessible and responsive text analysis app built with React and Vite. Features include character/word/sentence counters, letter density, character limit warnings, and keyboard-only navigation—all developed without AI to enhance logical thinking.",
+    src: "text-analyzer.jpg",
+    link: "https://i.postimg.cc/Fs7qtVRB/counterapp.png",
+    color: "#e0f7fa",
+    githubLink: "https://github.com/hunchodragovic/character-counter2",
+    liveLink: "https://character-counter-tan.vercel.app/",
+  },
+  {
+    title: "Full-Stack Authentication App 🔐🛡️",
+    description: "A full-stack authentication app built with the MERN stack",
+    src: "water.jpg",
+    link: "https://i.postimg.cc/jdK9hXz2/authapp.png",
+    color: "#fff",
+    githubLink: "https://github.com/hunchodragovic/authStyles",
+    liveLink: "https://auth-styles.vercel.app/",
   },
   {
     title: "🌍 Planet Voyage",
@@ -35,13 +46,14 @@ const projects = [
     liveLink: "https://travel-1f52e.web.app/",
   },
   {
-    title: "Full-Stack Authentication App 🔐🛡️",
-    description: "A full-stack authentication app built with the MERN stack",
-    src: "water.jpg",
-    link: "https://i.postimg.cc/jdK9hXz2/authapp.png",
-    color: "#fff",
-    githubLink: "https://github.com/hunchodragovic/authStyles",
-    liveLink: "https://auth-styles.vercel.app/",
+    title: "Amazon Clone",
+    description:
+      "A simple Amazon-inspired e-commerce web app built with React and Firebase, featuring product listings and a shopping cart.",
+    src: "rock.jpg",
+    link: "https://i.postimg.cc/tgTc5PKf/amazon.png",
+    color: "#5196fd",
+    githubLink: "https://github.com/hunchodragovic/amazon-clone",
+    liveLink: "https://clone-9b843.web.app/",
   },
 ];
 

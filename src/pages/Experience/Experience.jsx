@@ -55,19 +55,19 @@ const ExperienceSection = () => {
   const experiences = [
     {
       icon: Layers,
-      title: "Junior Frontend Developer",
-      company: "Upwork (Freelancer)",
+      title: "Web Developer",
+      company: "Upwork & Social Media Freelance",
       period: "2023 - Present",
       description:
-        "Collaborating with clients to design and implement interactive, visually appealing web solutions.",
+        "Specializing in full-stack e-commerce services through Upwork and social media platforms, delivering responsive and user-friendly interfaces tailored to client needs.",
     },
     {
       icon: Code2,
       title: "Problem Solver",
-      company: "codewars & leetcode",
+      company: "LeetCode & Codewars",
       period: "2023 - Present",
       description:
-        "Driven to find solutions that enhance functionality, user experience, and code efficiency.",
+        "Actively solving algorithmic challenges on LeetCode and Codewars to strengthen logical reasoning, improve coding efficiency, and sharpen problem-solving skills.",
     },
   ];
 

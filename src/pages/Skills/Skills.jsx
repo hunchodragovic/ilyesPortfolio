@@ -13,6 +13,7 @@ import {
   FaFigma,
   FaAws,
 } from "react-icons/fa";
+import { TbBrandMysql } from "react-icons/tb";
 import {
   SiNextdotjs,
   SiTypescript,
@@ -111,6 +112,14 @@ const SkillsSection = () => {
         {
           name: "REST APIs",
           icon: <BsGrid1X2 className="w-4 h-4 text-[#FF6C37]" />,
+        },
+        {
+          name: "PostgreSQL",
+          icon: <SiPostgresql className="w-4 h-4 text-[#336791]" />,
+        },
+        {
+          name: "MySQL",
+          icon: <TbBrandMysql className="w-4 h-4 text-[#00758F]" />,
         },
       ],
     },

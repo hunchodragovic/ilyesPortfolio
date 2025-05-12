@@ -6,7 +6,7 @@ export default function About() {
       <section id="about" className="py-16 md:py-32  text-white bg-[#04081A]">
         <div className="mx-auto max-w-5xl space-y-8 px-6 md:space-y-16">
           <h2 className="relative z-10 max-w-xl text-4xl font-medium lg:text-5xl text-white">
-            Developer, Designer, Learner, Innovator
+            Web Developer, E-commerce solutions Specialist.
           </h2>
           <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
             <div className="relative mb-6 sm:mb-0">
@@ -23,35 +23,45 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Ilyes Ait Yahiatene, a passionate JavaScript
-                developer focused on building modern, user-friendly web
-                applications with React and Next.js. I've developed full-stack
-                projects like Amazon and LinkedIn clones, an e-commerce
-                platform, and an online ordering app — with the goal of
-                mastering full-stack development through hands-on experience.{" "}
+                Hello, I'm Ilyes Ait Yahiatene, a web developer who helps
+                businesses and small enterprises stand out online by building
+                fast, custom websites and e-commerce stores.
                 <span className="font-bold text-white">
-                  As a Front-End developer with big goals
-                </span>
-                , I'm focused on improving every day to become a skilled
-                full-stack engineer.
+                  I specialize in creating modern, scalable digital solutions
+                </span>{" "}
+                that enhance performance, improve usability, and support
+                business growth.
               </p>
 
               <p className="text-white">
-                Currently, I'm diving deeper into backend development with
-                Node.js, Express, and MongoDB to grow as a full-stack developer
-                and build more complete, seamless applications.
+                While platforms like WordPress and Shopify are popular for quick
+                setups, they often lead to generic designs and performance
+                issues as traffic or content grows. That’s where I step in —
+                building ultra-fast, custom websites using advanced technologies
+                like Next.js.
+              </p>
+
+              <p className="text-white">
+                I also develop tailored dashboards that let clients manage
+                products, pricing, and orders effortlessly — without requiring
+                any technical background. My goal is to empower you with tools
+                that are both powerful and easy to use.
+              </p>
+
+              <p className="text-white">
+                If you're looking for a clean, professional online presence or a
+                customized e-commerce platform that truly represents your brand,
+                I'd be happy to discuss your project and share examples of my
+                past work.
               </p>
 
               <div className="pt-6">
                 <blockquote className="border-l-4 border-gray-300 pl-4">
                   <p className="text-white">
-                    As a lifelong learner and problem-solver, I'm driven by
-                    curiosity, creativity, and a desire to bring ideas to life
-                    through clean, efficient code. I'm continuously improving my
-                    skills to contribute meaningful work to the developer
-                    community and grow into a versatile, full-stack engineer.
+                    I'm committed to delivering high-performance solutions
+                    through clean, maintainable code — always learning, always
+                    building. Let's create something impactful together.
                   </p>
-
                   <div className="mt-6 space-y-3">
                     <cite className="block font-medium text-white">
                       Ilyes Ait

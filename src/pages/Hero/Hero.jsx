@@ -42,10 +42,8 @@ const GridBackground = () => {
 
 export default function Hero() {
   const words = [
-    "Front-End Developer & UI/UX Enthusiast",
-    "JavaScript Developer & Problem Solver",
-    "Learning the MERN Stack",
-    "Exploring Backend with Node.js & MongoDB",
+    "Web Developer(React & Next.js)",
+    "E-commerce Specialist",
     "Coding with Purpose | Learning Every Day",
   ];
 
@@ -54,8 +52,8 @@ const profile = {
     fullName: 'Ilyes Ait Yahiatene',
     title: 'React & Next.js Developer | Back-End Curious | Problem Solver in Progress',
     skills: [
-        'React', 'NextJS', 'Redux', 'Express',
-         'MongoDB',  'TypeScript',
+        'React', 'NextJS','Node.js','TypeScript', 'Express',
+         'MongoDB', 'PostgreSQL','MySQL' ,'Redux', 'Firebase',
         'RESTful API', 'Git', 'JWT', 'Framer Motion','Tailwind CSS',
     ],
     hardWorker: true,
@@ -160,8 +158,8 @@ const profile = {
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  Front-End Dev with a Full-Stack Mindset 🚀 | Passionate About
-                  Building Real-World Apps 💻✨
+                  Web Developer(React & Next.js) 🚀 | Passionate About Building
+                  Real-World Apps 💻✨
                 </p>
               </div>
 

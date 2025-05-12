@@ -38,7 +38,7 @@ const projects = [
   {
     title: "🌍 Planet Voyage",
     description:
-      " Planet Voyage A dynamic travel agency website built with Vite and ReactJS. Featuring interactive destination maps, real-time booking functionality, and a user-friendly interface to help travelers explore and plan their next adventure with ease",
+      "Planet Voyage is a dynamic travel agency website built with Vite and ReactJS. Featuring interactive destination maps, real-time booking functionality, and a user-friendly interface to help travelers explore and plan their next adventure with ease.",
     src: "water.jpg",
     link: "https://i.postimg.cc/wxSsdYR7/planet.png",
     color: "#fff",
@@ -54,6 +54,38 @@ const projects = [
     color: "#5196fd",
     githubLink: "https://github.com/hunchodragovic/amazon-clone",
     liveLink: "https://clone-9b843.web.app/",
+  },
+  {
+    title: "LinkedIn Clone",
+    description:
+      "A LinkedIn-inspired platform built with React and Firebase, offering post creation, authentication, and real-time updates — showcasing key social networking functionalities.",
+    src: "rock.jpg",
+    link: "https://i.postimg.cc/NjsmKB99/linkedin-Clone.png",
+    color: "#5196fd",
+    githubLink: "https://github.com/hunchodragovic/linkedin",
+    liveLink: "https://github.com/hunchodragovic/linkedin",
+  },
+  {
+    title: "Dynamic MovieApp",
+    description:
+      "A responsive movie search app powered by the OMDb API. Users can search for movies, view detailed info, and browse through results in a clean, dynamic layout.",
+    src: "rock.jpg",
+    link: "https://i.postimg.cc/ZR4SS7DS/movieapp.png",
+    color: "#5196fd",
+    githubLink: "https://github.com/hunchodragovic/movieapp",
+    liveLink: "https://github.com/hunchodragovic/movieapp",
+  },
+  {
+    title: "Social Media Platform with Vanilla JS",
+    description:
+      "A simple social media prototype built using only HTML, CSS, and JavaScript. It features user posts, likes, comments, and a clean responsive UI — all without using any front-end frameworks.",
+    src: "rock.jpg",
+    link: "https://i.postimg.cc/SRP3JDVj/socialmediaapp.png",
+    color: "#5196fd",
+    githubLink:
+      "https://github.com/hunchodragovic/My-first-social-media-project-with-vanilla-javascript",
+    liveLink:
+      "https://github.com/hunchodragovic/My-first-social-media-project-with-vanilla-javascript",
   },
 ];
 
